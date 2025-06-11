@@ -74,5 +74,3 @@ This repository is ideal for:
 - Anyone exploring the field of data science
 
 ---
-
-e
